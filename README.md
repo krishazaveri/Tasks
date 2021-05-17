@@ -1,4 +1,4 @@
-# Tasks
+# Using supervised machine learning to perform simple linear regression 
 #Importing the relevant libraries
 import numpy as np
 import pandas as pd
